@@ -7,6 +7,7 @@ function ArchivePage() {
       <a
         href="https://sabbir256.github.io/portfolio"
         className="group leading-tight font-semibold text-base relative transition-colors text-blue-600 inline-flex items-center mb-2"
+        rel="noreferrer noopener"
       >
         <IconArrowRight className="rotate-180 mr-1 size-4 transition-transform group-hover:-translate-x-2" />
         Sabbir Ahmed
