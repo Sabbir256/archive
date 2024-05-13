@@ -106,7 +106,7 @@ function TableRow({
   return (
     <tr className="border-b last:border-none">
       <td className="py-4 pr-4 align-top text-sm">{year}</td>
-      <td className="py-4 pr-4 align-top text-md font-semibold text-gray-800">
+      <td className="py-4 pr-4 align-top leading-tight font-semibold text-gray-800">
         <div className="hidden sm:block">{title}</div>
         <div className="block sm:hidden">
           {url && <Title title={title} url={url} />}
