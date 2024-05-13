@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --p-c-black: #1b1b1b;
+  --p-c-ivory: #fffff0;
+  --p-c-off-white: #fbfbfb;
+  --p-c-ghost-white: #f8f8ff;
+}
+
+body {
+  color: var(--p-c-black);
+  background: var(--p-c-ghost-white);
+}
