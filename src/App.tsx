@@ -1,9 +1,10 @@
 import "./App.css";
+import ArchivePage from "@/pages/ArchivePage";
 
 function App() {
   return (
     <>
-      <div>Hello</div>
+      <ArchivePage />
     </>
   );
 }
