@@ -5,7 +5,7 @@ function ArchivePage() {
   return (
     <div className="min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-20 lg:px-24 mx-auto lg:py-24">
       <a
-        href="https://sabbir256.github.io/portfolio"
+        href="https://sabbir256.github.io/"
         className="group leading-tight font-semibold text-base relative transition-colors text-blue-600 inline-flex items-center mb-2"
         rel="noreferrer noopener"
       >
