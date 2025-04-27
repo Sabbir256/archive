@@ -35,6 +35,20 @@ function ArchivePage() {
         </thead>
         <tbody>
           <TableRow
+            year="2025"
+            title="Taskman: A CLI Task Manager"
+            builtWith={["Golang", "Cobra", "Table Writer"]}
+            github="https://github.com/Sabbir256/taskman"
+          />
+
+          <TableRow
+            year="2024"
+            title="Ledger Khata"
+            builtWith={["Electron", "React", "SQLite"]}
+            github="https://github.com/Sabbir256/ledger-khata"
+          />
+
+          <TableRow
             year="2024"
             title="Key/Value Store like Redis"
             builtWith={["Golang", "RESP", "AOF"]}
@@ -63,8 +77,8 @@ function ArchivePage() {
             year="2020"
             title="Portfolio Website (v1)"
             builtWith={["jQuery", "Bootstrap", "HTML", "JavaScript"]}
-            url="https://sabbir256.github.io"
-            viewUrl="sabbir256.github.io"
+            url="https://sabbir256.github.io/portfolio-v1/"
+            viewUrl="sabbir256.github.io/portfolio-v1"
           />
           <TableRow
             year="2020"
